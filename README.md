@@ -1,4 +1,4 @@
-# DIO-desafio-github-primeiro-rep
+# DIO-desafio-github-primeiro-repositório
 Desafio do projeto sobre github do bootcamp Java New Talents 3
 
 ## Links úteis
